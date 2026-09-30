@@ -2,7 +2,7 @@
 
  I'm *Lebohang*, a full stack engineer based in South Africa
 
- My main tech stack is React.js, Tailwind.CSS, Python (Flask and FastAPI)
+ My main tech stack is React.js, Tailwind.CSS, Node.js, Python (Flask and FastAPI)
 
  My favorite tools are Figma, Git, Claude AI
 
