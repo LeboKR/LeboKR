@@ -24,7 +24,7 @@
 * I stream video games on the weekends to not lose my edge.😄
 
 # Reach me:
-* Call : +27 64 986 6204
+* LinkedIn: https://linkedin.com/in/lebohang-rachomanyane/
 * Email : leborachomanyane@gmail.com
   <!--
 **LeboKR/LeboKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
